@@ -66,10 +66,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
         }
         
     }
-    
-//    func locationManager(manager: CLLocationManager!, didEnterRegion region: CLRegion!) {
-//        let a = 1
-//    }
+
 
 }
 
